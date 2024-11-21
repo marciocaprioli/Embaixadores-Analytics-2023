@@ -1,0 +1,5 @@
+Você pode tentar esse passo a passo também:
+a. Abra o arquivo csv no Bloco de Notas;
+b. Clique em Salvar Como, mude a opção pra todos os arquivos e mude a codificação pra ANSI;
+c. Salve com o mesmo nome e confirme a substituição do arquivo.
+d. Isso vai trocar a codificação dos caracteres de UTF-8 para ANSI e vai parar de dar erro na importação.
