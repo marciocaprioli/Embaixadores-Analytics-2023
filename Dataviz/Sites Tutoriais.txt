@@ -1,0 +1,5 @@
+https://www.w3schools.com/sql/
+
+https://www.convertcsv.com/csv-to-sql.htm
+
+https://stackoverflow.com/
